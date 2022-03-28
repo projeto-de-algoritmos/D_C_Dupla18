@@ -33,13 +33,13 @@ Maximum subarray - Nível Médio
 Accepteds pelo leetcode dos problemas acima
 
 ### Kth Largest Element
-![Kth](./assets/PA_exerc_1.png)
+![Kth](assets/Pa_exerc_1.png)
 
 ### Closest Points
-![Closest](./assets/PA_exerc_2.png)
+![Closest](assets/Pa_exerc_2.png)
 
 ### Maximum Subarray
-![Maximum](./assets/PA_exerc_3.png)
+![Maximum](assets/Pa_exerc_3.png)
 
 ## Instalação 
 **Linguagem**: Python e C<br>

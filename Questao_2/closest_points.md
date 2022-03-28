@@ -8,6 +8,13 @@ You may return the answer in any order. The answer is guaranteed to be unique (e
 
  ### Example
 
+<center>
+
+![exercicio](../assets/Pa_exerc_2_exempl.png)
+<figcaption>Figura 1: Gráfico do Exemplo</figcaption>
+
+</center>
+
  INPUT
  ```jsx
     points = [[1,3],[-2,2]], k = 1

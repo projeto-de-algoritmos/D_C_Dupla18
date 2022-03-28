@@ -10,8 +10,8 @@ Temas:
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 180100831  |  Gabriel Avelino |
-| 180103431  |  João Victor Valadão |
+| 18/0100831  |  Gabriel Avelino |
+| 18/0103431  |  João Victor Valadão |
 
 ## Sobre 
 Para essa entrega de D-C o nosso grupo resolveu 3 questões de juízes onlines (Online Judges) para mostrar o conhecimento sobre Dividir e Conquistar. Os links das questões resolvidas:
@@ -33,13 +33,13 @@ Maximum subarray - Nível Médio
 Accepteds pelo leetcode dos problemas acima
 
 ### Kth Largest Element
-![Kth](assets/PA_exerc_1.png)
+![Kth](./assets/PA_exerc_1.png)
 
 ### Closest Points
-![Kth](assets/PA_exerc_2.png)
+![Closest](./assets/PA_exerc_2.png)
 
 ### Maximum Subarray
-![Kth](assets/PA_exerc_3.png)
+![Maximum](./assets/PA_exerc_3.png)
 
 ## Instalação 
 **Linguagem**: Python e C<br>

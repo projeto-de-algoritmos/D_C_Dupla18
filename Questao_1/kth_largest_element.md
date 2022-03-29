@@ -1,4 +1,4 @@
-## BUSYMAN - I AM VERY BUSY
+## KTH LARGEST ELEMENT
 
 Given an integer array nums and an integer k, return the kth largest element in the array.
 
@@ -6,11 +6,11 @@ Note that it is the kth largest element in the sorted order, not the kth distinc
 
 <a>Input Specifications</a>
 
-The first line consists of an array of integers and next is given a number K, that means the position of the largest element
+The first line consists of an array of integers and next is given a number K, that means the position of the largest element.
 
 <a>Output Specifications</a>
 
-For each test case find the maximum number of activities that you can do.
+Return the KTH element.
 
  ### Example 1
 
